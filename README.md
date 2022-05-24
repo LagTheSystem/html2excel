@@ -14,4 +14,4 @@ Once downloaded and installed, open Command Prompt on Windows or terminal on Mac
 ```
 
 Next, to start, run the script and set a name, and paste the link.
-Then choose which number table on the page you want but subtract 1 from the number
+Then choose which number table on the page you want ~~but subtract 1 from the number~~
