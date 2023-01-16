@@ -11,6 +11,7 @@ Once downloaded and installed, open Command Prompt on Windows or terminal on Mac
   pip3 install openpyxl
   pip3 install pandas
   pip3 install lxml
+  pip3 install tkinter
 ```
 
 Next, to start, run the script and set a name, and paste the link.
